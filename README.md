@@ -1,6 +1,7 @@
 # YSEC
 YSEC: Youth Slang Emotion Corpus
-本コーパスに関する論文発表について引用される方は，以下のbibtexをご利用ください．
+
+- 本コーパスに関する論文発表について引用される方は，以下のbibtexをご利用ください．
 
 @article{YSEC: Youth Slang Emotion Corpus,
   author = Kazuyuki， Matsumoto and Fuji, Ren},
