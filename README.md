@@ -12,7 +12,7 @@ YSEC: Youth Slang Emotion Corpus
 
 ```
 @article{YSEC: Youth Slang Emotion Corpus,
-  author = Kazuyuki， Matsumoto and Fuji, Ren},
+  author = {Fuji, Ren and Kazuyuki， Matsumoto},
   title = {Semi-Automatic Creation of Youth Slang Corpus and Its Application to Affective Computing},
   journal={IEEE Transactions on Affective Computing},
   year = {2016},
