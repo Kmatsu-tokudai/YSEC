@@ -22,5 +22,7 @@ YSEC: Youth Slang Emotion Corpus
 }
 ```
 
+- 本コーパスの本文データを利用したい方は、以下のアドレスまで連絡ください。利用規約に同意の上、学生等の場合は責任者の承認のもと、個別にデータを公開します。
+
 # Contact:
 emails: matumoto@is.tokushima-u.ac.jp
