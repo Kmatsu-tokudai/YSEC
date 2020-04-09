@@ -1,6 +1,13 @@
 # YSEC
 YSEC: Youth Slang Emotion Corpus
 
+- ysec_word.tsv
+  文中に含まれる若者言葉
+  
+- ysec_tag.tsv
+  各文に付与された感情タグ
+  
+  
 - 本コーパスに関する論文発表について引用される方は，以下のbibtexをご利用ください．
 
 ```
