@@ -1,5 +1,6 @@
 # YSEC
 YSEC: Youth Slang Emotion Corpus
+(2020 version)
 
 - ysec_word.tsv
   文中に含まれる若者言葉
